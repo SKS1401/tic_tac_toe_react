@@ -1,0 +1,15 @@
+/* styles.css */
+.square {
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+  }
+  
+  .board-row {
+    display: flex;
+  }
+  
+  .game-status {
+    margin-bottom: 20px;
+  }
+  
